@@ -21,7 +21,8 @@ public class BonjourNom {
         
         System.out.println("Nom? :" + john.getLastName());
         
-        System.out.println("Bonjour John Doe");        
+        System.out.println("Bonjour John Doe");   
+        
     }
     
 }
